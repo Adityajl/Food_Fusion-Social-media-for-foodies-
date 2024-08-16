@@ -74,10 +74,6 @@ We welcome contributions from the community! Here’s how you can contribute:
    ```
 5. **Create a Pull Request**
 
-## 📧 Contact
-
-For any questions or suggestions, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
