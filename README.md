@@ -81,7 +81,3 @@ For any questions or suggestions, feel free to reach out at [your-email@example.
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-This README provides a comprehensive overview of your project, highlighting the features, installation steps, and contribution guidelines. Remember to replace the placeholder image links and contact information with your actual links and details.
